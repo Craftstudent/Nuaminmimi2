@@ -1,6 +1,8 @@
 package com.javagittrial;
 
 public class Sundayproject {
+	int a =3;
+	int b =4;
 	
 	
 
